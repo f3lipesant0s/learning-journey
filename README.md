@@ -1,9 +1,13 @@
-# Learning Journey 🚀
-Welcome to my Learning Journey!
-Here, I document my progress in development as I explore different technologies.
+# minha jornada de aprendizado! 🚀
 
-I'm passionate about Information Security and Development, and eager to expand my knowledge while focusing on building a solid foundation in these areas.
+Aqui, registro meu progresso em desenvolvimento enquanto exploro diferentes tecnologias.
+Sou apaixonado por Segurança da Informação e Desenvolvimento e estou sempre em busca de expandir meu conhecimento, com foco na construção de uma base sólida nessas áreas.
+Este repositório será atualizado constantemente à medida que aprimoro minhas habilidades e aprendo novas tecnologias. Nele, reunirei projetos simples que foram essenciais para o meu aprendizado e que desenvolvi ao longo dos cursos.
+Fique à vontade para acompanhar minha evolução! 📚✨
 
-This repository will be constantly updated as I improve my skills and learn new technologies.
+## Metas para este repositório 🎯
+- Explorar novas linguagens e frameworks
+- Atualizar constantemente com novos aprendizados
+- Criar projetos práticos para aplicar o conhecimento adquirido
 
-Feel free to follow along with my journey! 📚✨
+
