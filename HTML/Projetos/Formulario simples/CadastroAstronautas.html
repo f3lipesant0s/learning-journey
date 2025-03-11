@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro da liga dos Astronautas</title>
+  </head>
+  <body>
+    <h3>Cadastro da liga dos Astronautas</h3>
+    <form>
+      <div>
+        <label for="fname">Nome:</label>
+        <input type="text" id="fname" name="fname" /> <br />
+      </div>
+      <br />
+      <div>
+        <label for="mail">Email:</label>
+        <input type="email" id="mail" name="mail" /> -
+        <label for="senha">Password:</label>
+        <input type="password" id="senha" name="senha" />
+      </div>
+      <br />
+      <div>
+        <label for="data">Data de nascimento:</label>
+        <input type="date" id="data" name="data" /> -
+        <label for="arquivo">Foto:</label>
+        <input type="file" id="arquivo" name="arquivo" />
+      </div>
+      <br />
+      <div>
+        <label for="nationality">Nacionalidade:</label>
+        <select name="nationality" id="nationality">
+          <option value="Russian">Russo</option>
+          <option value="Brasilian">Brasileiro</option>
+          <option value="American">Americana</option>
+        </select>
+        - Genero:
+        <label for="Female">F</label>
+        <input type="radio" name="gender" id="female" value="female" />
+        <label for="Male">M</label>
+        <input type="radio" name="gender" id="Male" value="Male" />
+      </div>
+      <br />
+      <div>
+        Suas principais qualidades: <br />
+        <label for="int">Inteligência</label>
+        <input type="checkbox" id="int" name="int" /> |
+        <label for="Res">Resiliência</label>
+        <input type="checkbox" id="Res" name="Res" /> |
+        <label for="Fisico">Preparo físico</label>
+        <input type="checkbox" name="Fisico" id="Fisico" /> |
+        <label for="edu">Educação</label>
+        <input type="checkbox" id="edu" name="edu" /> |
+      </div>
+      <br />
+      <div>
+        <textarea
+          name="desc"
+          id="desc"
+          cols="30"
+          rows="10"
+          placeholder="Porque você gostaria de ser Astronauta?"
+        ></textarea>
+      </div>
+      <br />
+      <div>
+        <input type="submit" value="Criar" />
+      </div>
+    </form>
+  </body>
+</html>
