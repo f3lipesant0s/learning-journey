@@ -1,8 +1,6 @@
-# minha jornada de aprendizado! 🚀
+# my learning journey! 🚀
 
-Este repositório é dedicado ao registro do meu progresso durante a graduação em Ciência da Computação. 
-Aqui centralizo todos os estudos, exercícios, projetos práticos e anotações teóricas que desenvolvo ao longo dos semestres.
-Meu objetivo é construir uma base sólida em computação, unindo os fundamentos acadêmicos com minha paixão por Cybersecurity
-Fique à vontade para acompanhar minha evolução! 📚✨
-
-
+This repository is dedicated to recording my progress during my Computer Science degree.
+Here I centralize all the studies, exercises, practical projects and theoretical notes that I develop throughout the semesters.
+My goal is to build a solid foundation in computing, combining academic foundations with my passion for Cybersecurity
+Feel free to follow my progress! 📚✨
